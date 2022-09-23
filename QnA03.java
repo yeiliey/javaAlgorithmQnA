@@ -19,3 +19,6 @@ public class QnA03 {
         }
     }
 }
+
+//Math.random 을 이용해 주사위 수 안에서 랜덤으로 설정이 되도록 했고 num1 과 num2 의
+//합이 5가 되면 break 를 걸도록 했다.
